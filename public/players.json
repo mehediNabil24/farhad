@@ -1,0 +1,82 @@
+[
+    {
+        "player_id": 1,
+        "player_img": "https://i.ibb.co.com/XChMztJ/kohli.jpg",
+        "name": "Virat Kohli",
+        "nationality": "India",
+        "player_type": "Batter",
+        "rating": 9.8,
+        "player_bat_style": "Right-hand bat",
+        "price": 1500000
+    },
+    {
+        "player_id": 2,
+        "player_img": "https://i.ibb.co.com/wyh8Pbp/willam.jpg",
+        "name": "Kane Williamson",
+        "nationality": "New Zealand",
+        "player_type": "Batter",
+        "rating": 9.5,
+        "player_bat_style": "Right-hand bat",
+        "price": 1200000
+    },
+    {
+        "player_id": 3,
+        "player_img": "https://i.ibb.co.com/p3H2mRh/ben-stoke.jpg",
+        "name": "Ben Stokes",
+        "nationality": "England",
+        "player_type": "Allrounder",
+        "rating": 9.2,
+        "player_bat_style": "Left-hand bat",
+        "price": 1400000
+    },
+    {
+        "player_id": 4,
+        "player_img": "https://i.ibb.co.com/CJprBrY/babar.jpg",
+        "name": "Babar Azam",
+        "nationality": "Pakistan",
+        "player_type": "Batter",
+        "rating": 9.3,
+        "player_bat_style": "Right-hand bat",
+        "price": 1300000
+    },
+    {
+        "player_id": 5,
+        "player_img": "https://i.ibb.co.com/qJss3tN/bumrah.jpg",
+        "name": "Jasprit Bumrah",
+        "nationality": "India",
+        "player_type": "Bowler",
+        "rating": 9.1,
+        "player_bat_style": "Right-hand bat",
+        "price": 1100000
+    },
+    {
+        "player_id": 6,
+        "player_img": "https://i.ibb.co.com/fGqkMd8/rashid.jpg",
+        "name": "Rashid Khan",
+        "nationality": "Afghanistan",
+        "player_type": "Bowler",
+        "rating": 9.4,
+        "player_bat_style": "Right-hand bat",
+        "price": 1000000
+    },
+    {
+        "player_id": 7,
+        "player_img": "https://i.ibb.co.com/8BHz3Zq/david.jpg",
+        "name": "David Warner",
+        "nationality": "Australia",
+        "player_type": "Batter",
+        "rating": 8.9,
+        "player_bat_style": "Left-hand bat",
+        "price": 1250000
+    },
+    {
+        "player_id": 8,
+        "player_img": "https://i.ibb.co.com/XCsJQcQ/andre.jpg",
+        "name": "Andre Russell",
+        "nationality": "West Indies",
+        "player_type": "Allrounder",
+        "rating": 9.0,
+        "player_bat_style": "Right-hand bat",
+        "price": 1350000
+    }
+]
